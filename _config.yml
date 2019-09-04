@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Harry Haiyi Mao"
+title                    : "Haiyi Harry Mao"
 title_separator          : "-"
-name                     : &name "Harry Haiyi Mao"
+name                     : &name "Haiyi Harry Mao"
 description              : &description "PhD student in University of Pittsburgh"
 url                      : https://harrymao1011.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Harry Haiyi Mao"
+  name             : "Haiyi Harry Mao"
   avatar           : "Photo.jpg"
   bio              : "PhD student in University of Pittsburgh"
   location         : "Pittsburgh, PA"
