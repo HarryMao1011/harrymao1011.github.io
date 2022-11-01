@@ -21,10 +21,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 News!
 ======
-1. Our paper ''Towards Cross-Modal Variational Causal Representation and Structure Learning'' accepted in ML4H proceeding track.
+1. Our paper ''Towards Cross-Modal Variational Causal Representation and Structure Learning'' accepted in ML4H, 2022 proceeding track.
 2. Our paper "Demystify the Gravity Well in the Optimization Landscape" is accepted in AAAI 2023.
-2. Serve as a reviewer for AISTATS 2023.
-3. Present our paper ''COEM: Cross-Modal Embedding for Metacell Identification'' in ICML workshop on Computational Biology.
+3. Our paper "Learning More Effective Cell Representations Efficiently" is accepted in Neurips workshop Learning Meaningful Representations of Life, 2022
+4. Serve as a reviewer for AISTATS 2023.
+5. Present our paper ''COEM: Cross-Modal Embedding for Metacell Identification'' in ICML workshop on Computational Biology.
 
 <!-- Site-wide configuration
 ------
